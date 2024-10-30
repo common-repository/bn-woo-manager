@@ -1,0 +1,398 @@
+# Copyright (C) 2015 BN Woo Manager
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: BN Woo Manager 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-25 22:31:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-25 20:29+0100\n"
+"Language: en\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+# general
+msgid "AddOn for WooCommerce - AJAX Product Edit, Shipping-Zones & Unit Price Management"
+msgstr ""
+
+msgid "works only with %s or later!"
+msgstr ""
+
+msgid "Switch to"
+msgstr ""
+
+msgid "BN AJAX Product Edit"
+msgstr ""
+
+msgid "BN Shipping Zones"
+msgstr ""
+
+msgid "AJAX Product Edit"
+msgstr ""
+
+msgid "BN Settings"
+msgstr ""
+
+msgid "If you like to use this plugin, <strong>please be so cool</strong> and support the development with a small donation, for example <strong>10 Euro</strong>.<br><strong>Many thanks.</strong>"
+msgstr ""
+
+msgid "incl. %s VAT"
+msgstr ""
+
+msgid "excl. %s VAT"
+msgstr ""
+
+# class-bn-woo-manager-product-edit.php
+msgid "CATEGORY"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Shipping<br>Class"
+msgstr ""
+
+msgid "QTY<br>per Class"
+msgstr ""
+
+msgid "Stock"
+msgstr ""
+
+msgid "Regular<br>Price"
+msgstr ""
+
+msgid "Regular Price"
+msgstr ""
+
+msgid "Sale Price"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "incl. VAT"
+msgstr ""
+
+msgid "excl. VAT"
+msgstr ""
+
+msgid "pc."
+msgstr ""
+
+msgid "Unit Price"
+msgstr ""
+
+msgid "Units"
+msgstr ""
+
+msgid "Units Base"
+msgstr ""
+
+msgid "Unit<br>Base"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Prod. per page"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Want to delete all LOGS? (Admin-Rigths required)"
+msgstr ""
+
+msgid "You have canceled the operation!"
+msgstr ""
+
+msgid "Do you want to make any visible changes Undo? Do not leave this page before any changes are done !!!"
+msgstr ""
+
+msgid "selected fields! Want to make the changes?"
+msgstr ""
+
+msgid "Not possible!"
+msgstr ""
+
+msgid "Package / QTY per Shipping Class"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "AND"
+msgstr ""
+
+msgid "NOT"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Subtract"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Percent"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Deactivate"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "from: %1$s"
+msgstr ""
+
+msgid "SKU"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "products without shipping class"
+msgstr ""
+
+msgid "products without manage stock"
+msgstr ""
+
+msgid "products with managed stock-level < 10"
+msgstr ""
+
+msgid "products with status out of stock"
+msgstr ""
+
+msgid "products with price 0"
+msgstr ""
+
+msgid "inactive products"
+msgstr ""
+
+msgid "password-protected products"
+msgstr ""
+
+msgid "external products"
+msgstr ""
+
+msgid "Product"
+msgid_plural "Products"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Variation"
+msgid_plural "Variations"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "found"
+msgstr ""
+
+# class-bn-woo-manager-settings.php
+msgid "Normally, the deletion of the cache is not necessary. But if information or products are missing, you can safely delete the cache here. Want to delete BN Woo Manager Cache now?"
+msgstr ""
+
+msgid "If you uninstall the Plugin, here you can keep the stored Data for Reinstall"
+msgstr ""
+
+msgid "Custom Settings"
+msgstr ""
+
+msgid "Keep"
+msgstr ""
+
+msgid "Values"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Default Products per page"
+msgstr ""
+
+msgid "Default Query Search"
+msgstr ""
+
+msgid "product per page"
+msgstr ""
+
+msgid "products per page"
+msgstr ""
+
+msgid "Show all"
+msgstr ""
+
+msgid "Drafts"
+msgstr ""
+
+msgid "Pending Reviews"
+msgstr ""
+
+msgid "Nothing found..."
+msgstr ""
+
+msgid "Prev"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Product QTY per calculated Shipping Class"
+msgstr ""
+
+msgid "This adds 3 new data fields to the product edit page and the BN Woo Manager AJAX Product Edit Page:<ul><li><strong>Units (Total Units of the product)</strong></li><li><strong>Unit (m,l,kg)</strong></li><li><strong>Units Base</strong></li></ul>Here you can enter the total units (litre, meter, pieces, kg ...) of your product and the unit price is calculated automatically."
+msgstr ""
+
+msgid "This Option is only available if the Shipping-Method BN Woo Manager Shipping-Zones is active!"
+msgstr ""
+
+msgid "Automatic Unit Price Calculation"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Please edit here"
+msgstr ""
+
+msgid "This adds a new data field to the product edit page and the BN Woo Manager AJAX Product Edit Page: <ul><li><strong>Product QTY per calculated Shipping Class</strong></li></ul>Shipping costs are based on shipping class are calculated per entered number of products instead of only per product or per Shipping Class.<br>Example: You send wine bottles still in a 6 box, no matter how many bottles are ordered. The shipping costs will be calculated per box.<br>This means that if your customer buys 1 bottle, he paid the shipping cost for a 6 box. Does he buy 7 bottles, he will pay the shipping costs for two 6 boxes. And so on."
+msgstr ""
+
+msgid "Show Package specification (total units) after Unit-Price"
+msgstr ""
+
+msgid "Show unit price here"
+msgstr ""
+
+msgid "Product Page"
+msgstr ""
+
+msgid "Cart / Checkout Subtotal"
+msgstr ""
+
+msgid "Cart Price"
+msgstr ""
+
+msgid "Thankyou / Order Details"
+msgstr ""
+
+msgid "HTML before Unit Price"
+msgstr ""
+
+msgid "HTML after Unit Price"
+msgstr ""
+
+msgid "Enter HTML-Tags this way: [ tag ]"
+msgstr ""
+
+msgid "BN Unit Price View"
+msgstr ""
+
+msgid "Price View Variable Products"
+msgstr ""
+
+msgid "Price View"
+msgstr ""
+
+msgid "Show starting prices (from prices) in the shop for variable products."
+msgstr ""
+
+msgid "Show VAT Info"
+msgstr ""
+
+msgid "Show VAT info (e.g. incl. 20% VAT) after price (and unit-price)"
+msgstr ""
+
+msgid "Show VAT Info only on single product page"
+msgstr ""
+
+msgid "HTML before VAT Info"
+msgstr ""
+
+msgid "HTML after VAT Info"
+msgstr ""
+
+msgid "Actions on Uninstall"
+msgstr ""
+
+msgid "Keep BN Shipping Zones Values"
+msgstr ""
+
+msgid "Keep BN Unit Price Values"
+msgstr ""
+
+msgid "(incl. Units Table)"
+msgstr ""
+
+msgid "Custom units can be entered here"
+msgstr ""
+
+msgid "Keep BN Woo Manager General Settings"
+msgstr ""
+
+# class-bn-woo-manager-unit-price.php
+msgid "Add New Unit"
+msgstr ""
+
+msgid "pkg."
+msgstr ""
+
+msgid "Edit Unit"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+# class-bn-woo-manager-shipping-zones.php
+msgid "Please enter all prices exclusive tax!"
+msgstr ""
+
+msgid "Shipping Zones"
+msgstr ""
+
+# bn-woo-manager-shipping-zones-settings.php
+msgid "Shipping / Parcel Service"
+msgstr ""
+
+msgid "Shipping Costs can be calculated by Shipping-Class and 6 specific Country-Zones & additional Postcode (Island) surcharge."
+msgstr ""
+
+msgid "No Shipping Class Cost"
+msgstr ""
+
+msgid "General / Default / Worldzone"
+msgstr ""
+
+msgid "All other Countries!"
+msgstr ""
+
+msgid "Postcode / Island surcharge"
+msgstr ""
+
+msgid "Postcodes"
+msgstr ""
+
+msgid "Postcodes Comma separated"
+msgstr ""
+
+msgid "Products without Shipping-Class!"
+msgstr ""
+
+

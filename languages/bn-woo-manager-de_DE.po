@@ -1,0 +1,464 @@
+# Copyright (C) 2015 BN Woo Manager
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: BN Woo Manager 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-25 22:31:34+00:00\n"
+"PO-Revision-Date: 2015-09-21 14:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# general
+msgid ""
+"AddOn for WooCommerce - AJAX Product Edit, Shipping-Zones & Unit Price "
+"Management"
+msgstr ""
+"AddOn für WooCommerce - AJAX Produkt Edit, Versandzonen & Einheitspreis "
+"Management"
+
+msgid "works only with %s or later!"
+msgstr "funktioniert nur mit %s oder neuer!"
+
+# general
+msgid "Switch to"
+msgstr "wechseln zu"
+
+msgid "BN AJAX Product Edit"
+msgstr "BN AJAX Produkt Edit"
+
+msgid "BN Shipping Zones"
+msgstr "BN Versandzonen"
+
+msgid "AJAX Product Edit"
+msgstr "AJAX Produkt Edit"
+
+msgid "BN Settings"
+msgstr "BN Einstellungen"
+
+msgid ""
+"If you like to use this plugin, <strong>please be so cool</strong> and "
+"support the development with a small donation, for example <strong>10 Euro</"
+"strong>.<br><strong>Many thanks.</strong>"
+msgstr ""
+"Wenn Sie dieses Plugin gerne verwenden, <strong>seien Sie so cool</strong> "
+"und unterstützen die Plugin-Pflege / Entwicklung mit einer kleinen Spende, "
+"zum Beispiel <strong>10 Euro</strong>.<br>Vielen Dank.</strong>"
+
+msgid "incl. %s VAT"
+msgstr "inkl. %s MwSt."
+
+msgid "excl. %s VAT"
+msgstr "exkl. %s MwSt."
+
+# class-bn-woo-manager-product-edit.php
+msgid "CATEGORY"
+msgstr "KATEGORIE"
+
+msgid "Published"
+msgstr "Veröffentlicht"
+
+msgid "Shipping<br>Class"
+msgstr "Versand<br>Klasse"
+
+msgid "QTY<br>per Class"
+msgstr "Menge<br>/ Klasse"
+
+msgid "Stock"
+msgstr "Lager"
+
+msgid "Regular<br>Price"
+msgstr "Regulärer<br>Preis"
+
+msgid "Regular Price"
+msgstr "Regulärer Preis"
+
+msgid "Sale Price"
+msgstr "Akt. Preis"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "incl. VAT"
+msgstr "inkl. MwSt."
+
+msgid "excl. VAT"
+msgstr "exkl. MwSt."
+
+msgid "pc."
+msgstr "Stck."
+
+msgid "Unit Price"
+msgstr "Einheitspreis"
+
+msgid "Units"
+msgstr "Einheiten"
+
+msgid "Units Base"
+msgstr "Einheitenbasis"
+
+msgid "Unit<br>Base"
+msgstr "Einheiten<br>Basis"
+
+msgid "Unit"
+msgstr "Einheit"
+
+msgid "Prod. per page"
+msgstr "Prod. pro Seite"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Want to delete all LOGS? (Admin-Rigths required)"
+msgstr "LOG-Datei wirklich leeren? (Administrator-Rechte benötigt)"
+
+msgid "You have canceled the operation!"
+msgstr "Aktion abgebrochen!"
+
+msgid ""
+"Do you want to make any visible changes Undo? Do not leave this page before "
+"any changes are done !!!"
+msgstr ""
+"Alle sichtbaren Änderungen rückgängig machen? Verlassen Sie nicht diese "
+"Seite, bevor alle Änderungen erledigt sind!!!"
+
+msgid "selected fields! Want to make the changes?"
+msgstr "ausgewählte Felder!  Wollen Sie die Änderungen durchführen?"
+
+msgid "Not possible!"
+msgstr "Nicht möglich!"
+
+msgid "Package / QTY per Shipping Class"
+msgstr "Paket / Menge pro Versandklasse"
+
+msgid "OR"
+msgstr "ODER"
+
+msgid "AND"
+msgstr "UND"
+
+msgid "NOT"
+msgstr "NICHT"
+
+msgid "Add"
+msgstr "Addieren"
+
+msgid "Subtract"
+msgstr "Subtrahieren"
+
+msgid "Replace"
+msgstr "Ersetzen"
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Percent"
+msgstr "Prozent"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Deactivate"
+msgstr "Deaktivieren"
+
+msgid "Select"
+msgstr "Auswählen"
+
+msgid "from: %1$s"
+msgstr "ab: %1$s"
+
+msgid "SKU"
+msgstr "Artikel-Nr."
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "products without shipping class"
+msgstr "Produkte ohne Versandklasse"
+
+msgid "products without manage stock"
+msgstr "Produkte ohne Lagerverwaltung"
+
+msgid "products with managed stock-level < 10"
+msgstr "Produkte mit Lagerverwaltung & Bestand < 10"
+
+msgid "products with status out of stock"
+msgstr "Produkte mit Lagerstatus Nicht vorrätig"
+
+msgid "products with price 0"
+msgstr "Produkte mit Preis 0"
+
+msgid "inactive products"
+msgstr "Inaktive Produkte"
+
+msgid "password-protected products"
+msgstr "Passwortgeschützte Produkte"
+
+msgid "external products"
+msgstr "Externe Produkte"
+
+msgid "Product"
+msgid_plural "Products"
+msgstr[0] "Produkt"
+msgstr[1] "Produkte"
+
+msgid "Variation"
+msgid_plural "Variations"
+msgstr[0] "Variation"
+msgstr[1] "Variationen"
+
+msgid "found"
+msgstr "gefunden"
+
+# class-bn-woo-manager-settings.php
+msgid ""
+"Normally, the deletion of the cache is not necessary. But if information or "
+"products are missing, you can safely delete the cache here. Want to delete "
+"BN Woo Manager Cache now?"
+msgstr ""
+"Im Normalfall ist das Löschen des Cache nicht notwendig. Sollten aber "
+"Angaben oder Produkte fehlen, können Sie hier gefahrlos den Cache löschen. "
+"Möchten Sie den BN Woo Manager Cache jetzt löschen ?"
+
+# woocommerce-bn-woo-manager.php
+msgid ""
+"If you uninstall the Plugin, here you can keep the stored Data for Reinstall"
+msgstr ""
+"Hier kann festgelegt werden, welche gespeicherten Daten bei der Plugin-"
+"Deinstallation für eine spätere Reinstallation behalten werden sollen"
+
+msgid "Custom Settings"
+msgstr "Benutzerdefinierte Einstellungen"
+
+msgid "Keep"
+msgstr "Behalte"
+
+msgid "Values"
+msgstr "Werte"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+# class-bn-woo-manager-settings.php
+msgid "Default Products per page"
+msgstr "Voreinstellung Produkte pro Seite"
+
+msgid "Default Query Search"
+msgstr "Voreinstellung Query Suche"
+
+msgid "product per page"
+msgstr "Produkt pro Seite"
+
+msgid "products per page"
+msgstr "Produkte pro Seite"
+
+msgid "Show all"
+msgstr "Zeige alle"
+
+msgid "Drafts"
+msgstr "Entwürfe"
+
+msgid "Pending Reviews"
+msgstr "Ausstehende Reviews"
+
+msgid "Nothing found..."
+msgstr "Nichts gefunden..."
+
+msgid "Prev"
+msgstr "Zurück"
+
+msgid "Next"
+msgstr "Vor"
+
+msgid "Product QTY per calculated Shipping Class"
+msgstr "Produktmenge pro berechneter Versandklasse"
+
+msgid ""
+"This adds 3 new data fields to the product edit page and the BN Woo Manager "
+"AJAX Product Edit Page:<ul><li><strong>Units (Total Units of the product)</"
+"strong></li><li><strong>Unit (m,l,kg)</strong></li><li><strong>Units Base</"
+"strong></li></ul>Here you can enter the total units (litre, meter, pieces, "
+"kg ...) of your product and the unit price is calculated automatically."
+msgstr ""
+"Dies fügt 3 neue Datenfelder auf der Produktbearbeitungsseite und der BN Woo "
+"Manager AJAX Produkt Edit Seite hinzu: <ul><li><strong> Gesamteinheiten (des "
+"Produkts)</strong></li><li><strong>Einheit (m,l,kg)</strong></"
+"li><li><strong>Einheitenbasis</ strong></li></ul>Geben Sie die "
+"Gesamteinheiten ( Liter, Meter, Stück, kg .. .) des Produkts ein, dann wird "
+"der Einheitspreis automatisch berechnet."
+
+msgid ""
+"This Option is only available if the Shipping-Method BN Woo Manager Shipping-"
+"Zones is active!"
+msgstr ""
+"Diese Option ist nur verfügbar, wenn die Versandart BN Woo Manager "
+"Versandzonen aktiv ist."
+
+msgid "Automatic Unit Price Calculation"
+msgstr "Automatische Einheitspreis Berechnung"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Inactive"
+msgstr "Nicht aktiv"
+
+msgid "Please edit here"
+msgstr "Bitte hier bearbeiten"
+
+msgid ""
+"This adds a new data field to the product edit page and the BN Woo Manager "
+"AJAX Product Edit Page: <ul><li><strong>Product QTY per calculated Shipping "
+"Class</strong></li></ul>Shipping costs are based on shipping class are "
+"calculated per entered number of products instead of only per product or per "
+"Shipping Class.<br>Example: You send wine bottles still in a 6 box, no "
+"matter how many bottles are ordered. The shipping costs will be calculated "
+"per box.<br>This means that if your customer buys 1 bottle, he paid the "
+"shipping cost for a 6 box. Does he buy 7 bottles, he will pay the shipping "
+"costs for two 6 boxes. And so on."
+msgstr ""
+"Dies fügt ein neues Datenfeld auf der Produktbearbeitungsseite und der BN "
+"Woo-Manager AJAX Produkt Edit Seite hinzu: <ul><li><strong>Produktmenge pro "
+"berechneter Versandklasse </ strong></li></ul>Versandkosten, die auf "
+"Versandklassen basieren werden anstatt pro Stück oder pro Versandklasse pro "
+"eingegebener Anzahl von Produkten berechnet (Paket).<br>Beispiel: Sie "
+"verschicken Weinflaschen immer in einer 6er-Kiste, egal wie viele Flaschen "
+"bestellt werden. Die Versandkosten werden pro Kiste berechnet.<br>Dies "
+"bedeutet, wenn Ihr Kunde 1 Flasche kauft, zahlt er die Versandkosten für "
+"eine 6er Kiste. Kauft er 7 Flaschen, muss er die Versandkosten für zwei "
+"Kisten bezahlen. Und so weiter."
+
+msgid "Show Package specification (total units) after Unit-Price"
+msgstr "Zeige die Verpackungseinheit (Gesamteinheiten) nach dem EInheitspreis"
+
+msgid "Show unit price here"
+msgstr "Zeige den EInheitspreis hier"
+
+msgid "Product Page"
+msgstr "Produktseite"
+
+msgid "Cart / Checkout Subtotal"
+msgstr "Warenkorb / Kasse Zwischensumme"
+
+msgid "Cart Price"
+msgstr "Warenkorb Preis"
+
+msgid "Thankyou / Order Details"
+msgstr "Danke-Seite / Bestell-Details"
+
+msgid "HTML before Unit Price"
+msgstr "HTML vor dem Einheitspreis"
+
+msgid "HTML after Unit Price"
+msgstr "HTML nach dem Einheitspreis"
+
+msgid "Enter HTML-Tags this way: [ tag ]"
+msgstr "HTML-Tags so eingeben: [ tag ]"
+
+msgid "BN Unit Price View"
+msgstr "Anzeige Einheitspreis"
+
+msgid "Price View Variable Products"
+msgstr "Preisanzeige der variablen Produkte"
+
+msgid "Price View"
+msgstr "Preis Anzeige"
+
+msgid "Show starting prices (from prices) in the shop for variable products."
+msgstr "Zeige Startpreis (ab Preise) im Shop für variable Produkte"
+
+msgid "Show VAT Info"
+msgstr "Zeige MwSt. Info"
+
+msgid "Show VAT info (e.g. incl. 20% VAT) after price (and unit-price)"
+msgstr ""
+"Zeige MwSt. Info (z.B. inkl. 19% MwSt.) nach dem Preis (und dem "
+"Einheitspreis)"
+
+msgid "Show VAT Info only on single product page"
+msgstr "Zeige MwSt. Info nur auf der Einzelprodukt-Seite"
+
+msgid "HTML before VAT Info"
+msgstr "HTML vor der MwSt. Info"
+
+msgid "HTML after VAT Info"
+msgstr "HTML nach der MwSt. Info"
+
+msgid "Actions on Uninstall"
+msgstr "Aktionen bei der Deinstallation"
+
+msgid "Keep BN Shipping Zones Values"
+msgstr "Behalte BN Versandzonen Werte"
+
+msgid "Keep BN Unit Price Values"
+msgstr "Behalte BN Einheitspreis Werte"
+
+msgid "(incl. Units Table)"
+msgstr "(inkl. Einheiten-Tabelle)"
+
+msgid "Custom units can be entered here"
+msgstr "Benutzerdefinierte Einheiten können hier eingegeben werden."
+
+msgid "Keep BN Woo Manager General Settings"
+msgstr "Behalte BN Woo Manager Einstellungen"
+
+# class-bn-woo-manager-unit-price.php
+msgid "Add New Unit"
+msgstr "Neue Einheit hinzufügen"
+
+msgid "pkg."
+msgstr "VPE"
+
+msgid "Edit Unit"
+msgstr "Einheit ändern"
+
+msgid "Search"
+msgstr "Suche"
+
+# class-bn-woo-manager-shipping-zones.php
+msgid "Please enter all prices exclusive tax!"
+msgstr "Bitte geben Sie alle Preise exklusive MwSt ein!"
+
+msgid "Shipping Zones"
+msgstr "Versandzonen"
+
+# bn-woo-manager-shipping-zones-settings.php
+msgid "Shipping / Parcel Service"
+msgstr "Spedition / Paketdienst"
+
+# bn-woo-manager-shipping-zones-settings.php
+msgid ""
+"Shipping Costs can be calculated by Shipping-Class and 6 specific Country-"
+"Zones & additional Postcode (Island) surcharge."
+msgstr ""
+"Versandkosten können - basierend auf Versandklassen - nach 6 spezifischen "
+"Länder-Zonen sowie zusätzlichem Postleitzahlen-/Inselzuschlag berechnet "
+"werden."
+
+msgid "No Shipping Class Cost"
+msgstr "Kosten Keine Versandklasse"
+
+msgid "General / Default / Worldzone"
+msgstr "Allgemein / Standard / Weltzone"
+
+msgid "All other Countries!"
+msgstr "Alle anderen Länder!"
+
+msgid "Postcode / Island surcharge"
+msgstr "Postleizahl- / Inselzuschlag"
+
+msgid "Postcodes"
+msgstr "Postleitzahlen"
+
+msgid "Postcodes Comma separated"
+msgstr "Postleitzahlen Komma separiert"
+
+msgid "Products without Shipping-Class!"
+msgstr "Produkte ohne Versandklasse"
